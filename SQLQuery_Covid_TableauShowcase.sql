@@ -1,6 +1,6 @@
 -- Query used for Tableau 
 -- Remember to check for nulls, Tableau will mistake
-
+-- My tableau visual can be found here:   https://public.tableau.com/app/profile/ricardo.rivera8835/vizzes
 -- Objective 1: 
 SELECT SUM(new_cases) as total_cases, SUM(CAST(new_deaths as int)) as total_deaths, SUM(CAST(new_deaths as int))/SUM(new_cases)*100 as DeathPercentage --Cannot do SUM(MAX(total_cases)) since it is an aggregate inside aggregate
 FROM PortfolioProject1..CovidDeaths
