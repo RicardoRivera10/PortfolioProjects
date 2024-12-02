@@ -1,0 +1,2 @@
+This folder contains practice with SQL, Excel, and R.
+This is to understand how ETL(Extract, transform, and load) tools speak using SQL. 
