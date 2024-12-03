@@ -1,4 +1,4 @@
-Here, I perform an analysis on the Stack Overflow Survey for 2024
+Here, I perform an analysis on the Stack Overflow Survey for 2024. 
 The second file can be downloaded from the following website (too big for full CSV to be uplaoded to Github):
 https://survey.stackoverflow.co/
 
