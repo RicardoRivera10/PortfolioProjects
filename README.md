@@ -16,6 +16,12 @@ Here in this Repository, you can find various practice and real world projects I
    This helped identify areas for improvment to target across all teams in the manufacturing facility, with an increase of 8% production rate so far
    
 4. SQLQueryCovid
+   Project follow along, where I worked with a Covid database provided at the website https://ourworldindata.org/covid-deaths
+   The goal of working through this database was to get a higher level understanding than just the basics on how a real world database can be explored.
+   Using Microsoft SQL Server Management studio, I performed a variety of different data manipulation techniques to see how it would change the data.
+   After getting a better understanding and identifying the areas that needed cleaning, I was able to filter to find specific information that would be later used visually in Tableau
    
-5. fifa21
-   
+6. fifa21
+   This dataset was found on kaggle at https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data
+   Here, my goal was to practice a few techniques I have not used in a while, making sure I still remember how to go from a messy dataset, to one that we can work with later down the line.
+   I used numpy and pandas in Python to convert columns into their correct value, and clean whatever else is necessary by observing unique values in the data
